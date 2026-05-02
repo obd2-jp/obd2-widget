@@ -1,0 +1,32 @@
+#obd2-dtc-checker {
+  max-width: 600px;
+  margin: 20px auto;
+  font-family: sans-serif;
+}
+
+.obd-box {
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.obd-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.obd-btn {
+  background: #0073aa;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.obd-result {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f9f9f9;
+}
